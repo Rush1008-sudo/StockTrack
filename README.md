@@ -1,5 +1,13 @@
 # StockTrack - Multi-Market Portfolio Management Web Application
 
+##  Application Demo
+
+<p align="center">
+  <img src="Demogif/demo1.gif" alt="Guest Mode & Login" width="48%">
+  <img src="Demogif/demo2.gif" alt="Real-time P/L Calculation" width="48%">
+</p>
+
+---
 **StockTrack** is a dynamic 3-tier web application designed to solve the challenges of fragmented multi-brokerage portfolio management. Built with PHP, MySQL, and modern frontend design (Glassmorphism & W3.CSS), it allows investors to seamlessly consolidate and track Taiwan/US stock market assets, real-time market value, and unrealized profit/loss in one centralized dashboard.
 
 ---
