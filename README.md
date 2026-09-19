@@ -3,8 +3,8 @@
 ##  Application Demo
 
 <p align="center">
-  <img src="Demogif/demo1.gif" alt="Guest Mode & Login" width="48%">
-  <img src="Demogif/demo2.gif" alt="Real-time P/L Calculation" width="48%">
+  <img src="Demogif/Demo1.gif" alt="Guest Mode & Login" width="48%">
+  <img src="Demogif/Demo2.gif" alt="Real-time P/L Calculation" width="48%">
 </p>
 
 ---
