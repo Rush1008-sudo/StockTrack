@@ -1,0 +1,11 @@
+<?php
+    // dbconfig.php.example
+    $host = "localhost";
+    $user = "your_username";
+    $password = "your_password";
+    $database = "stock_db";
+
+    $link = mysqli_connect($host, $user, $password, $database);
+    mysqli_query($link, "SET NAMES utf8");
+    return $link;
+?>
